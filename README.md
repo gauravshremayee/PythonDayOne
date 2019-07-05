@@ -14,7 +14,10 @@ Begin with Python Programming - Day1 program
 Day one Content 
 ########################################################
 Data types 
+
 Type Conversion 
+
 Arguments
+
 Literals
 
