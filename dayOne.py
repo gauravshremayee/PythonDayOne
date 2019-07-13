@@ -22,9 +22,9 @@ print(var4)
 #taking input from user from argument and keyboard
 #string ,numbers,data types 
 
-input_var=input("Enter a number")
+#input_var=input("Enter a number")
 
-print(input_var)
+#print(input_var)
 
 #taking input as argument
 
