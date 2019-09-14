@@ -46,6 +46,12 @@ jfjjfjjfkjfkfkkf"""
 print(test)
 
 
+#Try to find length of integer 
+
+int intNum=155637383
+
+print (len(intNum))
+
 # single quotes
 sq_str='Who was "that  person  or new one"?'
 
@@ -86,3 +92,4 @@ print(ten)
 hexd=0xa
 
 print (hexd)
+
